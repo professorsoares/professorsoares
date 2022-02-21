@@ -27,7 +27,7 @@ I'm a Business Transformation Manager 💻 ✨
   <li>💜 ┇Automating data analisys using Python
   <li>🌱 ┇I’m currently learning Data Science</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
-  <li>💬 ┇Ask me about: Tech, Games, Movies and Series</li>
+  <li>💬 ┇Ask me about: Management, Strategy, Tech, Games, Movies and Series</li>
 </ul>
 <br/>
 

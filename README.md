@@ -10,7 +10,7 @@ I'm a Business Transformation Manager 💻 ✨
 <ul>
   <li>🚀 ┇I’m currently working as Business Process Architect </li>
   <li>💜 ┇Automating Data Analisys using Python
-  <li>🌱 ┇I’m currently learning Data Science</li>
+  <li>🌱 ┇I’m currently learning Data Engineering, Data Science, Data Visualization, ML, Data-driven decisions and Business Process including  Automation</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
   <li>👯 ┇I’m looking to collaborate on Python and Data Science projects.</li>
   <li>🤔 ┇I’m looking for help with Machine Learning.</li>

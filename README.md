@@ -1,18 +1,3 @@
-<!--
-**professorsoares/professorsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
--  ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Bruno Soares
 <a href="https://linkedin.com/in/professorsoares"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/professorsoares"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -24,10 +9,12 @@ I'm a Business Transformation Manager 💻 ✨
 
 <ul>
   <li>🚀 ┇I’m currently working as Business Process Architect </li>
-  <li>💜 ┇Automating data analisys using Python
+  <li>💜 ┇Automating Data Analisys using Python
   <li>🌱 ┇I’m currently learning Data Science</li>
   <li>😍 ┇Passionate about education and problem solution through programming;</li>
-  <li>💬 ┇Ask me about: Management, Strategy, Tech, Games, Movies and Series</li>
+  <li>👯 ┇I’m looking to collaborate on Python and Data Science projects.</li>
+  <li>🤔 ┇I’m looking for help with Machine Learning.</li>
+  <li>💬 ┇Ask me about Agile Transformation, DEV, DS, Business Process, Management and Strategy.</li>
 </ul>
 <br/>
 

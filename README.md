@@ -24,3 +24,5 @@ I'm a Business Transformation Manager 💻 ✨
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorsoares&theme=light&show_icons=true&layout=compact"/>
     </a>
   </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=professorsoares%40gmail.com&theme=dark&hide_border=true&border_radius=4.6&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)

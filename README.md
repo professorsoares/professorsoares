@@ -21,6 +21,7 @@ I'm a Business Transformation Manager 💻 ✨
 <div align="between">
     <a href="https://github.com/professorsoares">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=professorsoares&theme=light&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorsoares&theme=light&show_icons=true&layout=compact"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professorsoares&theme=light&show_icons=true&layout=compact" />
+      <img height="180em" src="https://streak-stats.demolab.com/?user=professorsoares" />
     </a>
   </div>
